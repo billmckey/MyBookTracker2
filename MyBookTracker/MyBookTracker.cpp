@@ -5,7 +5,7 @@
 #include <windows.h>
 #include <string>
 using namespace std;
-const int max_books = 1000;
+const int max_books = 100;
 struct BOOKS
 {
 	char date[11];
